@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zajęcia_drugie.Zadanie2
+namespace Zajęcia_drugie
 {
-    static class Zadanie2A
+    static class ZadanieA2
     {
         static public void funck()
         {

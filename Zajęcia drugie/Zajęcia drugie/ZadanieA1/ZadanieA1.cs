@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Zajęcia_drugie.Zadanie1;
 
 namespace Zajęcia_drugie
 {
-    public static class Zadanie_1A
+    public static class ZadanieA1
     {
         public static void StartFirma()
         {

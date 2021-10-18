@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zajęcia_drugie.ZadanieB2
+namespace Zajęcia_drugie
 {
     class Budynek
     {
@@ -29,10 +29,10 @@ namespace Zajęcia_drugie.ZadanieB2
             }
 
         }
-        //static void ObliczSrednia(Budynek budynek, float oplataSmieci)
-        //{
+        public static void ObliczSrednia(Budynek budynek, float oplataSmieci)
+        {
 
-        //    Console.WriteLine($"{budynek.LbMieszkan / budynek.LbMieszkancow * oplataSmieci} zł");
-        //}
+            Console.WriteLine($"{budynek.LbMieszkancow / budynek.LbMieszkan * oplataSmieci} zł");
+        }
     }
 }

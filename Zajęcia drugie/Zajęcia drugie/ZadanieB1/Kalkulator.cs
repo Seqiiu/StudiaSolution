@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zajęcia_drugie.ZadanieB1
+namespace Zajęcia_drugie
 {
     static class Kalkulator
     {
