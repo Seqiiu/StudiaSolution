@@ -8,7 +8,8 @@ namespace Zajęcia_S4Z1
         {
             //ZadanieA1.Funck();
             //ZadanieA2.Funck();
-            ZadanieA3.Funck();
+            //ZadanieA3.Funck();
+            ZadanieA4.Funck();
 
         }
     }
