@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Zajęcia_drugie</RootNamespace>
+    <RootNamespace>Zajęcia_S4Z2</RootNamespace>
   </PropertyGroup>
 
 </Project>
