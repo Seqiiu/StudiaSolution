@@ -16,9 +16,6 @@ namespace Zajęcia_S4Z1
             //Odległość od środka współrzędnych 
             Console.WriteLine(punktJeden.ObliczOdleglosc()); 
 
-            //Odległość punktu od punktu
-            Console.WriteLine(Punkt.ObliczOdleglosc(punktJeden,punktDwa));
-
             //Odległość punktu od prostej
             Console.WriteLine(punktJeden.ObliczOdleglosc(-2, 1, 5));
         }

@@ -21,7 +21,7 @@ namespace Zajęcia_S4Z1
             return Math.Sqrt((x * x) + (y * y));
         }
 
-        public static double ObliczOdleglosc(Punkt punkt,Punkt punkt1)
+        public static double Odcinek(Punkt punkt,Punkt punkt1)
         {
 
 
